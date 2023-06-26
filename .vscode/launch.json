@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/DSA/Day2_Arrays",
-      "program": "c:/Users/Admin/Desktop/DSA/Day2_Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/DSA/Day3_Arrays_Maths",
+      "program": "c:/Users/Admin/Desktop/DSA/Day3_Arrays_Maths/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
