@@ -2,7 +2,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(head==NULL &&  head==NULL) return false;
+        if(head==NULL) return false;
         unordered_map<ListNode*,int>map;
         
         while (head!=NULL)
