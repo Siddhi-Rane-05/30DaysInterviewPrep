@@ -30,7 +30,7 @@ class Solution
             sort(v.begin(), v.end(), compare);
             
             int count=1;
-            int ansEnd=v[0].second;  //first vector's second elemet v[0].second=2 for the 2nd example
+            int ansEnd=v[0].second;  //first vector's second element 
             
             for(int i=1;i<v.size();i++)
             {
