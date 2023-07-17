@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/DSA/Day4_Hashing",
-      "program": "c:/Users/Admin/Desktop/DSA/Day4_Hashing/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/DSA/Day8 _Greedy",
+      "program": "c:/Users/Admin/Desktop/DSA/Day8 _Greedy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
