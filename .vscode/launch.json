@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/DSA/Day8 _Greedy",
-      "program": "c:/Users/Admin/Desktop/DSA/Day8 _Greedy/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/DSA/Day11_Binary Search",
+      "program": "c:/Users/Admin/Desktop/DSA/Day11_Binary Search/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
