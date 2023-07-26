@@ -1,4 +1,4 @@
-//Time Complexity : O(n)      space compexity : O(1)
+//Time Complexity : O(log n)      space compexity : O(1)
 
 class Solution{
     public:
@@ -11,7 +11,6 @@ class Solution{
 };
 
 
-//Time Complexity : O(og N)      space compexity : O(1)
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
