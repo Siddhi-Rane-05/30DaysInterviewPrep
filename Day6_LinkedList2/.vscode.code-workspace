@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../Day1_Arrays"
+		},
+		{
+			"path": "../Day2_Arrays"
+		},
+		{
+			"path": "../Day3_Arrays_Maths"
+		},
+		{
+			"path": "../Day4_Hashing"
+		},
+		{
+			"path": "../Day5_LinkedList"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Day7_2-Pointer"
+		},
+		{
+			"path": "../Day8 _Greedy"
+		},
+		{
+			"path": "../Day9_Recursion"
+		},
+		{
+			"path": "../Day11_Binary Search"
+		},
+		{
+			"path": "../Day13_Stack and Queue"
+		},
+		{
+			"path": "../Day14_"
+		},
+		{
+			"path": "../Day15_String"
+		},
+		{
+			"path": "../Day17 _Binary Tree"
+		},
+		{
+			"path": "../Day18_Binary Tree"
+		}
+	]
+}
